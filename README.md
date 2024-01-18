@@ -16,8 +16,6 @@
 **Email:** hellopb8@gmail.com
 
 
----
-
 ## 🛠️ Technologies
 
 #### Language
