@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20👋&fontSize=90)
 ## 📊 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thegr8od&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzjoon)](https://solved.ac/zzjoon/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8od&layout=compact&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thegr8od&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzjoon)](https://solved.ac/zzjoon/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8od&layout=compact&theme=tokyonight)
 
 --- 
 
