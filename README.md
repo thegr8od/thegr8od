@@ -13,7 +13,6 @@
 ## 📫 Contact
 **Email:** hellopb8@gmail.com
 
-**Instagram:** : thegr8pb
 
 ---
 
