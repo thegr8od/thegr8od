@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20👋&fontSize=90)
-## 📊 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thegr8od&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8od&layout=compact&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzjoon)](https://solved.ac/zzjoon/)
-
---- 
 
 ## 👋 Introduction
 
@@ -11,6 +7,10 @@
 🤔 새로운 것을 배우는 걸 좋아합니다.
 
 🎓 2019.03 ~ 2024.02 |  경북대학교 영어영문학과 & 컴퓨터학부 학사
+
+## 📊 Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thegr8od&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8od&layout=compact&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzjoon)](https://solved.ac/zzjoon/)
+
 
 ## 📫 Contact
 **Email:** hellopb8@gmail.com
@@ -26,6 +26,4 @@
 
 #### Database
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-
----
 
