@@ -9,7 +9,7 @@
 
 🎓 2019.03 ~ 2024.02 |  경북대학교 컴퓨터학부 & 영어영문학과 학사
 
-  2024.07 ~ | SSAFY 12th( 2024.07~ )
+🎓 2024.07 ~ 2025.06 |  SSAFY 12th
 
 ## 📊 Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thegr8od&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8od&layout=compact&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzjoon)](https://solved.ac/zzjoon/)
