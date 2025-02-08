@@ -12,7 +12,7 @@
 🎓 2024.07 ~         |  삼성 SW 청년 아카데미(SSAFY) 12th
 
 ## 📊 Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thegr8od&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8od&layout=compact&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzjoon)](https://solved.ac/zzjoon/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8od&layout=compact&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzjoon)](https://solved.ac/zzjoon/)
 
 
 ## 📫 Contact
