@@ -9,7 +9,7 @@
 
 🎓 2024.07 ~ 2025.06 |  삼성 SW 청년 아카데미(SSAFY) 12th
 
-🎓 2025.07 ~ 2025.08 |  하나은행 IT시스템부 인턴
+🎓 2025.07 ~ 2025.08 |  하나은행(Hana Bank) IT시스템부 인턴
 
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegr8od&layout=compact&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzjoon)](https://solved.ac/zzjoon/)
